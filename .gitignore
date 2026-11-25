@@ -1,0 +1,23 @@
+# Dependencias de paquetes
+node_modules/
+
+# Binarios locales y entornos
+runtime/
+.env
+.env.local
+
+# Logs de ejecución
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos temporales de sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Backups y data cruda no anonimizada
+data_raw.csv
+*_backup*

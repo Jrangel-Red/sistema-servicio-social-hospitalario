@@ -1,0 +1,28 @@
+[
+  {
+    "id": "ALT-DEMO-001",
+    "tipo": "ALERTA_SANITARIA_CRITICA",
+    "nivel": "ALTO",
+    "titulo": "Ingreso de Paciente N.N. Indigente en Shock Trauma",
+    "mensaje": "Se ha registrado el ingreso de un paciente no identificado sin red de soporte familiar. Coordinar con RENIEC y Policía Nacional.",
+    "paciente": "PACIENTE N.N. (INDIGENTE - HALLADO EN VIA PUBLICA)",
+    "diagnostico": "POLITRAUMATISMO POR ACCIDENTE DE TRANSITO",
+    "destinatario": "asistencia.social@hospital-demo.pe",
+    "fecha": "25/11/2026, 6:00:00 p. m.",
+    "leida": false,
+    "enviadoPorCorreo": true
+  },
+  {
+    "id": "ALT-DEMO-002",
+    "tipo": "SEGURIDAD_ACCESO",
+    "nivel": "MEDIO",
+    "titulo": "Inicio de Sesión con Doble Factor (2FA TOTP)",
+    "mensaje": "Acceso exitoso al módulo de auditoría mediante código criptográfico verificado.",
+    "paciente": "SISTEMA",
+    "diagnostico": "AUDITORIA DE SEGURIDAD",
+    "destinatario": "seguridad.ti@hospital-demo.pe",
+    "fecha": "25/11/2026, 6:25:00 p. m.",
+    "leida": true,
+    "enviadoPorCorreo": true
+  }
+]

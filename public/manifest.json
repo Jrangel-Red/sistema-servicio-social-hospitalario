@@ -1,0 +1,16 @@
+{
+  "short_name": "HEJCU Social",
+  "name": "Hospital José Casimiro Ulloa - Servicio Social",
+  "icons": [
+    {
+      "src": "logo.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0d3b66",
+  "theme_color": "#0056b3",
+  "display": "standalone",
+  "orientation": "portrait"
+}

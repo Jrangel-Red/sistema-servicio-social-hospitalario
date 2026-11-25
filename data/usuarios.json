@@ -1,0 +1,41 @@
+[
+  {
+    "id": "USR-001",
+    "username": "admin",
+    "nombreCompleto": "Ing. Jonathan Rangel (Admin Ciberseguridad)",
+    "email": "seguridad.demo@hospital-social.pe",
+    "passwordHash": "$2a$10$h.ST8Fn.T2fVcIwnz/XT3.zqPjNHeh4dU/mBF8MMC9xGiMmlb/wOK",
+    "rol": "ADMIN",
+    "secret2FA": "JBSWY3DPEHPK3PXP",
+    "qrLoginToken": "HEJCU-TOKEN-ADMIN-SEC-9988",
+    "twoFactorEnabled": true,
+    "estado": "ACTIVO",
+    "ultimoAcceso": "25/11/2026, 6:30:00 p. m."
+  },
+  {
+    "id": "USR-002",
+    "username": "ts_taravay",
+    "nombreCompleto": "Lic. Milagritos Taravay (Trabajo Social)",
+    "email": "trabajosocial.demo@hospital-social.pe",
+    "passwordHash": "$2a$10$8DDqJdTrbr5AYtIt/D61a.DA9oRl/5469iX93q7HF4CrKmYwBvQma",
+    "rol": "TRABAJADORA_SOCIAL",
+    "secret2FA": "KZXW6YTBOI=======",
+    "qrLoginToken": "HEJCU-TOKEN-TS-TARAVAY-7722",
+    "twoFactorEnabled": true,
+    "estado": "ACTIVO",
+    "ultimoAcceso": "25/11/2026, 5:45:00 p. m."
+  },
+  {
+    "id": "USR-003",
+    "username": "auditor_minsa",
+    "nombreCompleto": "Dr. Delegado Auditor (MINSA / EsSalud)",
+    "email": "auditoria.demo@minsa.gob.pe",
+    "passwordHash": "$2a$10$E5zK8J3vJp7rG5L6k1q3zeJ8v9r2w1y0u7t4r3e2w1q0p9o8n7m6l",
+    "rol": "DIRECTIVO_AUDITOR",
+    "secret2FA": "MFRGGZDFMZTWQ2LK",
+    "qrLoginToken": "HEJCU-TOKEN-AUDITOR-MINSA-4411",
+    "twoFactorEnabled": true,
+    "estado": "ACTIVO",
+    "ultimoAcceso": "25/11/2026, 4:15:00 p. m."
+  }
+]
